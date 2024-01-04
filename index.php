@@ -29,14 +29,14 @@ $t_6_ri = intval($t_4/60/60/24%30);
 <div class="text">寒假</div>
 <div class="small_text">还有</div>
 <?php
-echo '<div class="small_text">'.$t_5_yue."月".$t_5_ri."天<br></div>";
+echo '<div class="small_text">'.$t_5_yue."月".$t_5_ri."天</div>";
 ?>
 <br>
 <div class="small_text">离</div>
 <div class="text">暑假</div>
 <div class="small_text">还有</div>
 <?php
-echo '<div class="small_text">'.$t_6_yue."月".$t_6_ri."天<br></div>";
+echo '<div class="small_text">'.$t_6_yue."月".$t_6_ri."天</div>";
 ?>
 </div>
 </body>
